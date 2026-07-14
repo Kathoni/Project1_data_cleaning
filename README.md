@@ -147,8 +147,8 @@ plt.show()
 ```
 Apple-AppStore-EDA/
 │
-├── AppleStore.csv
-├── analysis.ipynb        # or analysis.py
+├── AppleStore.csv        (Dataset from Kaggle)
+├── analysis.ipynb       (jupyter for better visualization)
 ├── README.md
 ```
 
@@ -166,7 +166,3 @@ Apple-AppStore-EDA/
 - Machine learning predictions.
 
 ---
-
-## 📜 License
-
-This project is intended for educational and learning purposes.
